@@ -1,4 +1,4 @@
-// descending_loops.c
+// descending-loops.c
 
 #include <stdlib.h>
 #include <stdio.h>
